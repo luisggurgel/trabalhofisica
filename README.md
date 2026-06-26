@@ -1,1 +1,2 @@
-Programa que calcula Knuth Arrow notation e verifica limites de hardware p ver se vai dar stackoverflow no C ou nao
+## Trabalho final de física
+# Integrantes: Luis Guilherme Araujo, Pedro Vinicius Ernesto, Fabio Rian, Dylan Mesquita, André Almeida
